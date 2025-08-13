@@ -4,6 +4,6 @@ A small library to handle text markup in the Pango markup style.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/Shinmera/pango-markup.git |
-| commit  | d471352                                          |
+| commit  | b5f02ef                                          |
 | systems | pango-markup                                     |
 |---------+--------------------------------------------------|
